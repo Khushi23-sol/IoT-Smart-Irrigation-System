@@ -1,4 +1,4 @@
-IoT-Based Smart Irrigation System: Optimizing Water Usage in Agriculture
+IoT-Based Smart Irrigation System.
 
 Team Members
 - Khushi Solanki (60005230055)  
